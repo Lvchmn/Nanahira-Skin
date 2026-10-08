@@ -1,0 +1,10 @@
+Mods: {
+	NanahiraSkin: {
+		Items: {
+			NanahiraAccessory: {
+				DisplayName: Nanahira Skin Accessory
+				Tooltip: Displays the Nanahira pixel-art skin while equipped.
+			}
+		}
+	}
+}

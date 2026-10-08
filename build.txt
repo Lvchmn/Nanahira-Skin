@@ -1,0 +1,3 @@
+displayName = Nanahira Skin
+version = 0.2.4
+side = Both

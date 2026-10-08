@@ -1,0 +1,10 @@
+Mods: {
+	NanahiraSkin: {
+		Items: {
+			NanahiraAccessory: {
+				DisplayName: "Nanahira Skin アクセサリー"
+				Tooltip: "装備中、Nanahiraのピクセルアートスキンを表示する"
+			}
+		}
+	}
+}
